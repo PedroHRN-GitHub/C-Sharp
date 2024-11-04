@@ -64,5 +64,6 @@ bool P = false;
 bool K = false;
 
 bool resultado = !L ||(P&&K);
+bool resultado2 = L ||P&&K;
 Console.WriteLine(resultado);
-
+Console.WriteLine(resultado2);
