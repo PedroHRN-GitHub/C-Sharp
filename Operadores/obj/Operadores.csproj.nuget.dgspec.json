@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\operadores\\Operadores.csproj": {}
+    "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\Operadores\\Operadores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\operadores\\Operadores.csproj": {
+    "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\Operadores\\Operadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\operadores\\Operadores.csproj",
+        "projectUniqueName": "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\Operadores\\Operadores.csproj",
         "projectName": "Operadores",
-        "projectPath": "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\operadores\\Operadores.csproj",
+        "projectPath": "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\Operadores\\Operadores.csproj",
         "packagesPath": "C:\\Users\\SENAC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\operadores\\obj\\",
+        "outputPath": "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\Operadores\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
