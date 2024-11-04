@@ -10,3 +10,7 @@ string nome1 = "pedro";
 string saudacao1 = $"Olá {nome1}! Bem-Vindo";
 
 Console.WriteLine(saudacao1);
+
+int numero = 5;
+
+Console.WriteLine(numero.GetType());
