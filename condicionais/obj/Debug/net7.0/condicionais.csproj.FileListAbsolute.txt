@@ -1,0 +1,14 @@
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\bin\Debug\net7.0\condicionais.exe
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\bin\Debug\net7.0\condicionais.deps.json
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\bin\Debug\net7.0\condicionais.runtimeconfig.json
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\bin\Debug\net7.0\condicionais.dll
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\bin\Debug\net7.0\condicionais.pdb
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\obj\Debug\net7.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\obj\Debug\net7.0\condicionais.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\obj\Debug\net7.0\condicionais.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\obj\Debug\net7.0\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\obj\Debug\net7.0\condicionais.dll
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\obj\Debug\net7.0\refint\condicionais.dll
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\obj\Debug\net7.0\condicionais.pdb
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\obj\Debug\net7.0\condicionais.genruntimeconfig.cache
+C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\obj\Debug\net7.0\ref\condicionais.dll
