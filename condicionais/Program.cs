@@ -84,6 +84,8 @@
 //     Console.WriteLine("Voce digitou errado ou não colocou um dia da semana, tente escrever sem acento ou ç e lembre da primeira letra em maiusculo");
 // }
 
+//Switch
+
 // Console.WriteLine("Digite uma letra e direi se é uma vogal ou não\n");
 // string? letra = Console.ReadLine();
 
@@ -113,4 +115,104 @@
 //     }
 // }
 
-Console.WriteLine("PEbas");
+//int idade = 10;
+// string mensagem = idade >= 18 ? "maior de idade" : "menor de idade";
+// Console.WriteLine(mensagem);
+
+// V1
+
+// bool idade = 15 >= 18 ? true : false;
+// string? mensagem = idade == false ? "" : "Tem autorização?";
+// string? autorização = "sim";
+// int autorizaçãoconfirm = autorização == "sim"|| autorização == "s"||autorização == "Sim"||  autorização == "S" ? 1 : 0;
+// bool autorizaçãoV = autorizaçãoconfirm == 1 ? true : false;
+
+// bool result = idade || autorizaçãoV;
+
+// string? entrada = result == true ? "entrada permitida" : "entrada negada";
+// Console.WriteLine(entrada);
+
+//V2
+
+// using System.Reflection.Metadata;
+// Console.WriteLine ("digite a idade");
+// string? idade = Console.ReadLine();
+// int idadeV = int.Parse(idade);
+// bool idadeP = idadeV >= 18 ? true : false;
+
+// string pedido = idadeP == false ? "Tem autorização:": "Só aperte enter";
+// Console.WriteLine(pedido);
+
+// string? aut = Console.ReadLine();
+// bool autconfirm = aut == "sim"|| aut == "s"||aut == "Sim"||  aut == "S" ? true : false;
+
+// bool result = idadeP || autconfirm;
+// string result1 = result == true ? "entrada permitida" : "entrada Negada";
+
+// Console.WriteLine(result1);
+
+//outra atv
+
+// Console.WriteLine("Digite a primeira nota: ");
+// double nota1;
+// while (!double.TryParse(Console.ReadLine(), out nota1))  // Tentativa de conversão
+// {
+//     Console.WriteLine("Valor inválido! Digite uma nota válida para a primeira nota: ");
+// }
+
+// Console.WriteLine($"Nota digitada: {nota1}");
+
+// Console.WriteLine("Digite a segunda nota: ");
+// double nota2;
+// while (!double.TryParse(Console.ReadLine(), out nota2))  // Tentativa de conversão
+// {
+//     Console.WriteLine("Valor inválido! Digite uma nota válida para a segunda nota: ");
+// }
+
+// Console.WriteLine($"Nota digitada: {nota2}");
+
+// Console.WriteLine("Digite a terceira nota: ");
+// double nota3;
+// while (!double.TryParse(Console.ReadLine(), out nota3))  // Tentativa de conversão
+// {
+//     Console.WriteLine("Valor inválido! Digite uma nota válida para a terceira nota: ");
+// }
+
+// Console.WriteLine($"Nota digitada: {nota3}");
+
+// Console.WriteLine("Digite a quarta nota: ");
+// double nota4;
+// while (!double.TryParse(Console.ReadLine(), out nota4))  // Tentativa de conversão
+// {
+//     Console.WriteLine("Valor inválido! Digite uma nota válida para a quarta nota: ");
+// }
+
+// Console.WriteLine($"Nota digitada: {nota4}");
+
+// double media1 = (nota1 + nota2) / 2;
+// double media2 = (nota3 + nota4) / 2;
+// double mediaF = (media1 + media2) / 2;
+
+// Console.WriteLine ("Possui presença minima:");
+// string? Presenca = Console.ReadLine();
+// bool PreConf = Presenca == "sim"|| Presenca == "s"||Presenca == "Sim"||  Presenca == "S" ? true : false;
+
+
+// bool result = PreConf && mediaF >= 7;
+// string result1 = result == true ? $"Média {mediaF:F1}: Aprovado" : $"Média {mediaF:F1}: Reprovado";
+
+// Console.WriteLine(result1);
+
+//outra atv
+
+Console.WriteLine ("Choveu?");
+string? Chuva = Console.ReadLine();
+bool ChuvaConf = Chuva == "sim"|| Chuva == "s"||Chuva == "Sim"||  Chuva == "S" ? true : false;
+Console.WriteLine("está tarde?");
+string? Tarde = Console.ReadLine();
+bool TardeConf = Tarde == "sim"|| Tarde == "s"||Tarde == "Sim"||  Tarde == "S" ? true : false;
+
+bool result = ChuvaConf || TardeConf;
+string result1 = result == !false ? $"Vou Deixar para outro dia" : $"Vou pedalar";
+
+Console.WriteLine(result1);
