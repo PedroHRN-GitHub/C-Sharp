@@ -24,3 +24,8 @@ if (foiremovido){
 } else{
     Console.WriteLine($"{pararemovernome} não foi encontrado na lista");
 }
+Console.WriteLine("Lista de nome: ");
+
+for (int i = 0; i <listanome.Count; i++){
+    Console.WriteLine(listanome[i]);
+}
