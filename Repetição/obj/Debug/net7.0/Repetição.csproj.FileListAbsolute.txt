@@ -1,0 +1,14 @@
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\bin\Debug\net7.0\Repetição.exe
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\bin\Debug\net7.0\Repetição.deps.json
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\bin\Debug\net7.0\Repetição.runtimeconfig.json
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\bin\Debug\net7.0\Repetição.dll
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\bin\Debug\net7.0\Repetição.pdb
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\obj\Debug\net7.0\Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\obj\Debug\net7.0\Repetição.AssemblyInfoInputs.cache
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\obj\Debug\net7.0\Repetição.AssemblyInfo.cs
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\obj\Debug\net7.0\Repetição.csproj.CoreCompileInputs.cache
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\obj\Debug\net7.0\Repetição.dll
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\obj\Debug\net7.0\refint\Repetição.dll
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\obj\Debug\net7.0\Repetição.pdb
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\obj\Debug\net7.0\Repetição.genruntimeconfig.cache
+C:\Users\SENAC\Documents\GitHub\C-Sharp\Repetição\obj\Debug\net7.0\ref\Repetição.dll
