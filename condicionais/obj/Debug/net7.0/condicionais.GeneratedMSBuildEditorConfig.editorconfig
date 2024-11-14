@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = condicionais
-build_property.ProjectDir = C:\Users\SENAC\Documents\GitHub\C-Sharp\condicionais\
+build_property.ProjectDir = C:\Users\pedor\OneDrive\Documentos\GitHub\C-Sharp\condicionais\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

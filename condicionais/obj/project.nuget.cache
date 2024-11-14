@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jPENbtDekxWOjdHmy4bIgDccULl2FXOZ57Yqf/gSp1plYUWM64+8Vdl+g9hpdRqv9dlytTSjiq1u71N0beoYCA==",
+  "dgSpecHash": "fVI9kmkf1Dc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SENAC\\Documents\\GitHub\\C-Sharp\\condicionais\\condicionais.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pedor\\OneDrive\\Documentos\\GitHub\\C-Sharp\\condicionais\\condicionais.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedor\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\pedor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\pedor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\pedor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
