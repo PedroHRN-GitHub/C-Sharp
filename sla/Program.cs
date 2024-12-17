@@ -174,9 +174,6 @@ while (true)
                         }
                     }
                     break;
-
-                // Repetir a mesma lógica para Usarik e Licurgo...
-
                 case "4":
                               string UNAME = "Usarick";
                     Console.WriteLine($"Nome: {UNAME}");
